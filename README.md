@@ -1,9 +1,9 @@
 # Welcome to my little Project Sematary ⚰️
 > Teacher of University of Montemorelos | Self-taught developer | Curious person | Writer of little tales | Love of mom.
-\
-\
-\
-*<p style="color:red;">WARNING: Be careful not to fall into an open grave</p>*
+
+```diff
+- WARNING: Be careful not to fall into an open grave
+```
 <!--
 **jonathangomz/jonathangomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
