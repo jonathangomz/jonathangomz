@@ -1,4 +1,6 @@
-### Welcome to my little Project Sematary ⚰️
+# Welcome to my little Project Sematary ⚰️
+> Teacher of University of Montemorelos | Self-taught developer | Curious person | Writer of little tales | Love of mom.
+
 
 <!--
 **jonathangomz/jonathangomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
