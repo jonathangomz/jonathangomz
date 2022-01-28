@@ -1,5 +1,5 @@
 # Welcome to my little Project Sematary ⚰️
-> Teacher of University of Montemorelos | Self-taught developer | Curious person | Writer of little tales | Love of mom.
+> Backend developer at OneCard | Self-taught developer | Curious person | Writer of little tales | Love of mom.
 
 ```diff
 - WARNING: Be careful not to fall into an open grave
